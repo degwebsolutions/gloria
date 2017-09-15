@@ -4,8 +4,12 @@
   "description": "Timisoreni.ro scraper",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Balaj Marius",
+  "license": "ISC",
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "puppeteer": "^0.10.2"
+  }
 }

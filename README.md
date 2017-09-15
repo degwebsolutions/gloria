@@ -1,7 +1,7 @@
 # gloria 🚜
->Timisoreni.ro scraper
+>timisoreni.ro scraper
 
-![Gloria](https://i.imgur.com/U3DOpJh.png)
+![gloria](https://i.imgur.com/U3DOpJh.png)
 
 ---
 
@@ -9,10 +9,4 @@
 
 ```
 npm run start
-```
-
-### Develop 🛠
-
-```
-npm run start:development
 ```
